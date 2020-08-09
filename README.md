@@ -1,3 +1,3 @@
 # movie app 2020
 
-React JS Fundamentals Course (2020 Update!)
+### React JS 기초다지기 (2020 Update!)
